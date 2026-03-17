@@ -1,0 +1,50 @@
+{
+  "name": "Setlist App - セトリ記録アプリ",
+  "short_name": "セトリ",
+  "description": "ライブのセットリストを記録・管理し、アーティスト別ランキングを集計できるアプリ",
+  "theme_color": "#0284c7",
+  "background_color": "#f0f9ff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["music", "lifestyle"],
+  "screenshots": [
+    {
+      "src": "/screenshot1.png",
+      "sizes": "540x720",
+      "type": "image/png"
+    },
+    {
+      "src": "/screenshot2.png",
+      "sizes": "540x720",
+      "type": "image/png"
+    }
+  ]
+}
